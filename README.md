@@ -50,7 +50,7 @@ Setiap baris code dan konfigurasi system adalah kesempatan untuk belajar hal bar
 - 💬 Open untuk diskusi tentang Laravel, networking, atau Linux
 - 🤝 Siap berkolaborasi dalam project open source
 - 🌐 Tertarik dengan network automation dan system optimization
-- 📧 Reach me at: [your-email@example.com](mailto:salmanmustapa@outlook.com)
+- 📧 Reach me at: [salmanmustapa@outlook.com](mailto:salmanmustapa@outlook.com)
 
 ## 📝 Recent Focus Areas
 
