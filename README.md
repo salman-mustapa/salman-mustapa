@@ -21,38 +21,15 @@ Setiap baris code dan konfigurasi system adalah kesempatan untuk belajar hal bar
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-
-### 🌐 Web Development
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### 🔧 System Administration
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/-Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
-
-### 🌐 Networking
 ![Mikrotik](https://img.shields.io/badge/-MikroTik-293239?style=flat&logo=mikrotik&logoColor=white)
 ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
-
-## 📚 Project Categories
-
-### 🚀 Web Applications
-Laravel-based projects untuk belajar modern web development patterns
-
-### 📱 Mobile Development
-Eksplorasi Kotlin untuk Android development
-
-### 🔧 System Scripts
-Bash scripts untuk automasi system administration tasks
-
-### 🌐 Network Tools
-Utilities untuk network management dan monitoring
-
-### 💾 System Administration
-Tools dan dokumentasi untuk Linux system management
 
 ## 🎯 Areas of Interest
 
