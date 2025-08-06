@@ -14,9 +14,8 @@ Saya seorang IT enthusiast yang senang belajar dan berbagi pengalaman di bidang 
 
 Setiap baris code dan konfigurasi system adalah kesempatan untuk belajar hal baru. Saya percaya bahwa berbagi pengetahuan akan membuat kita semua berkembang bersama.
 
-## 🛠️ Tech Stack & Experience
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
